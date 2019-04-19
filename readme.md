@@ -1,4 +1,4 @@
-# Template nodeJs with typescript and hot reload
+# Template nodeJs with Typescript and hot reload
 Clone this repository and install dependencies.
 ```
 npm intall

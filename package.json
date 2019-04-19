@@ -1,7 +1,7 @@
 {
   "name": "node-ts-with-reload",
   "version": "1.0.0",
-  "description": "Template nodeJs with typescript and hot reload",
+  "description": "Template nodeJs with Typescript and hot reload",
   "main": "index.js",
   "scripts": {
     "build-ts": "tsc",
