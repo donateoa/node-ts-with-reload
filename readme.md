@@ -1,4 +1,13 @@
-# Develop
+# Template nodeJs with typescript and hot reload
+Clone this repository and install dependencies.
+```
+npm intall
+```
+or
+```
+yarn install
+```
+## Develop
 
 Observations:
 
@@ -17,7 +26,7 @@ and in a separate terminal we run:
 npm run watch-node
 ````
 
-# Run the Application
+## Run the Application
 Only starts the application
 ````
 npm run serve (npm start)
